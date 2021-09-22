@@ -52,7 +52,27 @@ No que diz respeito à sustentabilidade socioambiental, e tudo que pode ameaçá
 [^5]:Por causa desta característica, o sistema de pensamento de Dooyeweerd também é chamado de Filosofia da Ideia de Lei (_Wijsbegeerte der Wetsidee_), ou, simplesmente, Filosofia Cosmonômica
 
 
-As modalidades também possuem um núcleo de sentido, uma essência única e exclusiva, que qualificam os conjuntos de leis[^6] nelas presentes. Isto posto, temos a seguinte configuração em ordem crescente: distintiva (distinção); quantitativa (magnitude); espacial (extensão); cinemática (movimento); física (energia); regulatória (equilíbrio); biótica (vida); sensitiva (sensitividade); fiducial (crenças); histórica (poder formativo); informacional (significação simbólica); epistêmica (sabedoria); social (_sociação_[^7]; econômica (frugalidade); operacional (vocação); jurídica (obrigação); estética (harmonia); ética (ágape)[^8]. A matriz multimodal é universal e possibilita, sem exceção, a existência de entidades naturais e sociais, eventos, ações, conceitos, noções, as diversas instituições sociais e os vários tipos de relacionamento presentes na sociedade, enfim, todas as coisas[^9](DOOYEWEERD, 1986, p. 61).
+As modalidades também possuem um núcleo de sentido, uma essência única e exclusiva, que qualificam os conjuntos de leis[^6] nelas presentes. Isto posto, temos a seguinte configuração em ordem crescente:
+1. distintiva (distinção); 
+2. quantitativa (magnitude); 
+3. espacial (extensão); 
+4. cinemática (movimento); 
+5. física (energia); 
+6. regulatória (equilíbrio); 
+7. biótica (vida); 
+8. sensitiva (sensitividade); 
+9. fiducial (crenças); 
+10. histórica (poder formativo); 
+11. informacional (significação simbólica); 
+12. epistêmica (sabedoria); 
+13. social (_sociação_)[^7]; 
+14. econômica (frugalidade); 
+15. operacional (vocação); 
+16. jurídica (obrigação); 
+17. estética (harmonia); 
+18. ética (ágape)[^8]. 
+
+A matriz multimodal é universal e possibilita, sem exceção, a existência de entidades naturais e sociais, eventos, ações, conceitos, noções, as diversas instituições sociais e os vários tipos de relacionamento presentes na sociedade, enfim, todas as coisas[^9](DOOYEWEERD, 1986, p. 61).
 
 
 [^6]:Dooyeweerd chamou estes conjuntos de _Esferas de Leis_.
@@ -93,8 +113,8 @@ Segundo Casiello (2000), esta modalidade possibilita o reconhecimento "da unidad
 ### Quantitativa (magnitude)
 
 - Possibilita o aspecto quantitativo da realidade e a ordem numérica em suas direções positivas e negativas. Neste sentido, compreende-se que um numeral per se é uma abstração teórica que corresponde a uma dada quantidade. 
-- Contabilidade 
-- Quantos? Todas as medições e avaliações foram feitas corretamente?
+    - **Contabilidade** 
+    - _Quantos? Todas as medições e avaliações foram feitas corretamente?_
 
 [^10]:O filósofo Sul-Africano Daniel Strauss oferece, em uma de suas principais obras, uma série de critérios para a identificação das modalidades (STRAUSS, 2009, p. 77–79)
 
@@ -104,24 +124,32 @@ Segundo Casiello (2000), esta modalidade possibilita o reconhecimento "da unidad
 ### Espacial (extensão)
 
 - Fundamenta-se na modalidade numérica (DOOYEWEERD, 1984a, p. 85) e tem por núcleo de sentido a extensão contínua, que não pode ser reduzida à noção de magnitude nem à percepção sensorial de espaço (DOOYEWEERD, 1984a, p. 86). Neste sentido, a extensão contínua pressupõe magnitude (aspecto quantitativo) e ordem (aspecto distintivo). 
-- Territórios, Espaços, Forma e Extensão. 
-- Quão grande? Há cobertura, solução, resposta adequada em detalhe e alcance?
+    - **Territórios, Espaços, Forma e Extensão.** 
+    - _Quão grande? Há cobertura, solução, resposta adequada em detalhe e alcance?_
 
-### Cinemática
+### Cinemática (movimento)
 
-Cinemática (movimento): a) A intuição pura de movimento apresenta-se como fluxo contínuo a partir da percepção de momentos temporais sucessivos (DOOYEWEERD, 1984a, p. 93). B) Transporte e Mobilidade. C) Quão rápido? Quais processos, fatores, são constantes nesta situação?
+- A intuição pura de movimento apresenta-se como fluxo contínuo a partir da percepção de momentos temporais sucessivos (DOOYEWEERD, 1984a, p. 93). 
+    - **Transporte e Mobilidade.** 
+    - _Quão rápido? Quais processos, fatores, são constantes nesta situação?_
 
-### Física
+### Física (energia)
 
-Física (energia): a) Tem por núcleo de sentido a energia em operação, ativa, seja ela atualizada ou em potência, o que implica relações de causalidade (DOOYEWEERD, 1984a, p. 99), pois em todas as suas formas ela é causa de mudanças físicas[^12](STRAUSS, 2009, p. 89). B) Ambiente Físico, Massa e Energia. C) Quão reativo? Há algum uso efetivo, não poluente, sustentável, dos recursos naturais?
+- Tem por núcleo de sentido a energia em operação, ativa, seja ela atualizada ou em potência, o que implica relações de causalidade (DOOYEWEERD, 1984a, p. 99), pois em todas as suas formas ela é causa de mudanças físicas[^12](STRAUSS, 2009, p. 89). 
+    - **Ambiente Físico, Massa e Energia.** 
+    - _Quão reativo? Há algum uso efetivo, não poluente, sustentável, dos recursos naturais?_
 
-### Regulatória
+### Regulatória (equilíbrio)
 
-Regulatória (equilíbrio): a) Modalidade que também pode ser chamada de cibernética. É responsável pelos processos de autorregulação necessários à manutenção de certos estados de equilíbrio (DE RAADT, 2000, p. 34). B) Auto regulação, Equilíbrio Ecossistêmico. C) Quão equilibrado? Todos as inter-relações entre as modalidades estão bem balanceadas?
+- Modalidade que também pode ser chamada de cibernética. É responsável pelos processos de autorregulação necessários à manutenção de certos estados de equilíbrio (DE RAADT, 2000, p. 34). 
+    - **Auto regulação, Equilíbrio Ecossistêmico.** 
+    - _Quão equilibrado? Todos as inter-relações entre as modalidades estão bem balanceadas?_
 
-### Biótica
+### Biótica (vida)
 
-Biótica (vida): a) Seu núcleo de sentido é a vida, que possibilita as funções e processos necessários à manutenção dos seres viventes. A vida não pode ser percebida sensorialmente como algo _per se_[^13], embora manifeste-se em fenômenos sensíveis[^14] (DOOYEWEERD, 1984a, p. 108–110). B) Saúde, Biodiversidade, Proteção Ambiental. Quão produtivo? Há relação fecunda, promotora de saúde, entre as coisas vivas?
+- Seu núcleo de sentido é a vida, que possibilita as funções e processos necessários à manutenção dos seres viventes. A vida não pode ser percebida sensorialmente como algo _per se_[^13], embora manifeste-se em fenômenos sensíveis[^14] (DOOYEWEERD, 1984a, p. 108–110). 
+    - **Saúde, Biodiversidade, Proteção Ambiental.** 
+    - _Quão produtivo? Há relação fecunda, promotora de saúde, entre as coisas vivas?_
 
 [^12]:A consideração da modalidade física juntamente com a cinemática é estudada pela mecânica (DOOYEWEERD, 1984b, p. 99), mas da mesma forma que a cinemática pode definir o conceito de movimento uniforme sem nenhuma referência à força causal, o conceito físico de aceleração não pertence à cinemática, mas à física (DOOYEWEERD, 1984b, p. 99), apontando, assim, para uma distinção modal. 
 
@@ -130,29 +158,37 @@ Biótica (vida): a) Seu núcleo de sentido é a vida, que possibilita as funçõ
 
 [^14]:A tentativa de reduzir a vida a algo puramente mecânico ou químico é confrontada com a experiência empírica que nos mostra sua transcendência a esses aspectos. É por isso que não se podem gerar organismos vivos exclusivamente por combinações químicas, ainda que estas lhes sejam fundamentais.
 
-### Sensitiva
+### Sensitiva (sensitividade)
 
-Sensitiva (sensitividade): a) A sensitividade é o núcleo de sentido desta modalidade, que é composta por elementos subjetivos do sentir que se apresentam como fenômenos em referência às qualidades sensoriais objetivas das coisas ou eventos (DOOYEWEERD, 1984a, p. 116–117). B) Percepções com relação ao ambiente. C) Quão estimulante? Os impactos percebidos são ameaçadores ou bem-vindos?
+- A sensitividade é o núcleo de sentido desta modalidade, que é composta por elementos subjetivos do sentir que se apresentam como fenômenos em referência às qualidades sensoriais objetivas das coisas ou eventos (DOOYEWEERD, 1984a, p. 116–117). 
+    - **Percepções com relação ao ambiente.** 
+    - _Quão estimulante? Os impactos percebidos são ameaçadores ou bem-vindos?_
 
-### Fiducial
+### Fiducial (crenças)
 
-Fiducial (crenças): a) Tem como núcleo de sentido crenças[^15], religiosas ou não, no sentido em que fundamentam convicções e comprometimentos. Deste modo, possibilita a fé, mas não como algo que está apenas acima da vida temporal, nem como mera função particular da existência humana que pode ser reduzida exclusivamente a fenômenos sociais, ritualísticos, cúlticos. Tampouco, é uma função da _psyqué_ através da qual se obtém certeza direta e imediata de algo sem qualquer razão discursiva (DOOYEWEERD, 1984a, p. 299). A fé é inerente à existência humana, independente das convicções e comprometimentos que viabiliza, esteja ela relacionada a questões básicas, como a convicção de que uma cadeira não cairá se nela nos assentarmos (STRAUSS, 2009, p. 102), ou mais complexas, como a fé na razão, na história, num método, na ciência, no progresso, em Deus. B) Comprometimento, Interesse, Visão. C) Quão confiável? Quais crenças, cosmovisões, ideologias estão em jogo?
+- Tem como núcleo de sentido crenças[^15], religiosas ou não, no sentido em que fundamentam convicções e comprometimentos. Deste modo, possibilita a fé, mas não como algo que está apenas acima da vida temporal, nem como mera função particular da existência humana que pode ser reduzida exclusivamente a fenômenos sociais, ritualísticos, cúlticos. Tampouco, é uma função da _psyqué_ através da qual se obtém certeza direta e imediata de algo sem qualquer razão discursiva (DOOYEWEERD, 1984a, p. 299). A fé é inerente à existência humana, independente das convicções e comprometimentos que viabiliza, esteja ela relacionada a questões básicas, como a convicção de que uma cadeira não cairá se nela nos assentarmos (STRAUSS, 2009, p. 102), ou mais complexas, como a fé na razão, na história, num método, na ciência, no progresso, em Deus. 
+    - **Comprometimento, Interesse, Visão.** 
+    - _Quão confiável? Quais crenças, cosmovisões, ideologias estão em jogo?_
 
-### Histórica
+### Histórica (poder formativo)
 
-Histórica (poder formativo): a) O conceito contemporâneo de cultura, lato sensu, é comumente aceito como algo que engloba um complexo de aspectos normativos. Já a ideia de história, também num sentido geral, pode ser compreendida como uma composição de eventos específicos associados à noção de tempo e causalidade. Na percepção de Dooyeweerd, que se distancia destas concepções, a história se dá pelo desenvolvimento da modelagem cultural possibilitada pela ação da mente humana e de relações sociais atualizadas em atos concretos (DOOYEWEERD, 1984a, p. p.228). Por- tanto, a ideia de poder formativo está relacionada à possibilidade de livre planejamento. B) Criatividade, Desenvolvimento Cultural. C) Quão criativo? Os desenvolvimentos são culturalmente apropriados e úteis?
+- O conceito contemporâneo de cultura, lato sensu, é comumente aceito como algo que engloba um complexo de aspectos normativos. Já a ideia de história, também num sentido geral, pode ser compreendida como uma composição de eventos específicos associados à noção de tempo e causalidade. Na percepção de Dooyeweerd, que se distancia destas concepções, a história se dá pelo desenvolvimento da modelagem cultural possibilitada pela ação da mente humana e de relações sociais atualizadas em atos concretos (DOOYEWEERD, 1984a, p. p.228). Por- tanto, a ideia de poder formativo está relacionada à possibilidade de livre planejamento. 
+    - **Criatividade, Desenvolvimento Cultural.** 
+    - _Quão criativo? Os desenvolvimentos são culturalmente apropriados e úteis?_
 
-### Simbólico-Informacional
+### Simbólico-Informacional (significação)
 
-Simbólico-Informacional (significação): a) Modalidade que possibilita a informação, a significação simbólica, a compreensão e a expressão linguística dos símbolos através de leis específicas para princípios fonológicos, sintáticos, semânticos, semióticos. Tem como substrato modal a modalidade histórica, pois é coerentemente inseparável do desenvolvimento histórico e da modelagem cultural. Contudo, ainda que a linguagem seja responsável por dar significado ao sentido da história, não pode com esta ser con- fundida porque o sentido designativo permanece nesta modalidade (DOOYEWEERD, 1984a, p. 223). A linguagem possui historicidade, mas não é história. B) Comunicações, Mídia. C) Quão claro? Há comunicação aberta? Qual linguagem ou símbolos estão sendo utilizados?
+- Modalidade que possibilita a informação, a significação simbólica, a compreensão e a expressão linguística dos símbolos através de leis específicas para princípios fonológicos, sintáticos, semânticos, semióticos. Tem como substrato modal a modalidade histórica, pois é coerentemente inseparável do desenvolvimento histórico e da modelagem cultural. Contudo, ainda que a linguagem seja responsável por dar significado ao sentido da história, não pode com esta ser con- fundida porque o sentido designativo permanece nesta modalidade (DOOYEWEERD, 1984a, p. 223). A linguagem possui historicidade, mas não é história. 
+    - **Comunicações, Mídia.** 
+    - _Quão claro? Há comunicação aberta? Qual linguagem ou símbolos estão sendo utilizados?_
 
 
 [^15]:Diferentemente de De Raadt e Casiello, Dooyeweerd e Strauss a identificam como sendo a última modalidade na escala modal.
 
 
-### Epistêmica
+### Epistêmica (sabedoria)
 
-Epistêmica (sabedoria): a) Compreende-se por epistemologia multimodal a articulação entre três conceitos complexos fundamentais: 
+Compreende-se por epistemologia multimodal a articulação entre três conceitos complexos fundamentais: 
 
 - Informação; 
 - Conhecimento; 
@@ -162,9 +198,9 @@ Segundo De Raadt, a coerência intermodal é tal que possibilita um alto grau de
 
 Da mesma forma, sentidos de outras modalidades podem ser transpostos para a modalidade simbólica-informacional e transformados em dados, em informação. Igualmente, aspectos econômicos presentes na realidade podem ser transpostos para a modalidade numérica e traduzidos em números, compondo informações que podem ser expressas em forma de equação matemática, informação que pode ser utilizada, por sua vez, para gerar um conhecimento econômico, por exemplo. Já a sabedoria é compreendida como resultado de um processo complexo que envolve três níveis: 
 
-- Aquisição de informação, que ocorre quando um sentido é transposto de um ou mais idiomas, ou seja, de outras modalidades, para a modalidade simbólico- informacional, transformando-se, portanto, em um dado; 
-- Obtenção de conhecimento, que ocorre através da modalidade epistêmica e é produto da análise e da organização coerente de dados, possibilitados pela modalidade simbólico-informacional; 
-- Por fim, a sabedoria é adquirida "quando todo o conhecimento em cada idioma é integrado em uma única e coerente unidade epistemológica"[^18](DE RAADT, 1991, p. 9). 
+1. Aquisição de informação, que ocorre quando um sentido é transposto de um ou mais idiomas, ou seja, de outras modalidades, para a modalidade simbólico- informacional, transformando-se, portanto, em um dado; 
+2. Obtenção de conhecimento, que ocorre através da modalidade epistêmica e é produto da análise e da organização coerente de dados, possibilitados pela modalidade simbólico-informacional; 
+3. Por fim, a sabedoria é adquirida "quando todo o conhecimento em cada idioma é integrado em uma única e coerente unidade epistemológica"[^18](DE RAADT, 1991, p. 9). 
 
 Neste sentido, a ciência dá-se a partir de conhecimentos oriundos de diferentes modalidades; já a sapiência é produto da harmonização de saberes e práticas, sendo sua natureza, portanto, transdisciplinar, multi-idiomática (multimodal), integralizada, harmônica,
 
@@ -177,29 +213,41 @@ Neste sentido, a ciência dá-se a partir de conhecimentos oriundos de diferente
 
 [^18]:Acreditamos que uma importante reflexão pode ser desenvolvida a partir desta noção de sabedoria com a noção de práxis marxiana, uma vez que a sabedoria não pode estar dissociada da ação ativa, empiricamente aplicada. B) Conhecimento Formal, Informal e Tradicional, Análise. C) Quão inteligível e aplicável? Há coerência interna e externa? Qual o grau de aplicabilidade?
 
-### Social
+### Social (_sociação_)
 
-Social (_sociação_): a) O núcleo de sentido da modalidade social não deve ser confundido com a noção de vida social, nem com uma ideia de sociedade como algo que engloba todas as modalidades normativas presentes na realidade (DOOYEWEERD, 1984a, p. 141). Na tradução inglesa de sua obra, Dooyeweerd utilizou o termo ’social interaction’ para denotar a essência desta modalidade. Mas, segundo Strauss, o termo interação não capta o sentido exclusivo desta modalidade porque a noção relacionada com o prefixo ’inter’ origina-se na modalidade espacial e a ideia de ’ação’ na modalidade física. Neste caso, o termo _sociação_ (_vergesellschaftung_), cunhado inicialmente pelo sociólogo alemão Georg Simmel (SIMMEL; MORAES FILHO, 1983, p. 59–60), parece ser o mais adequado. Todavia, este conceito é utilizado aqui no sentido específico em que denota o elemento fundante de todo e qualquer fenômeno social e não as implicações teórico-metodológicas por ele propostas. B) Coesão Social. C) Quão sociável? Há cooperação e encorajamento? Quais comunidades e associações estão presentes?
+- O núcleo de sentido da modalidade social não deve ser confundido com a noção de vida social, nem com uma ideia de sociedade como algo que engloba todas as modalidades normativas presentes na realidade (DOOYEWEERD, 1984a, p. 141). Na tradução inglesa de sua obra, Dooyeweerd utilizou o termo ’social interaction’ para denotar a essência desta modalidade. Mas, segundo Strauss, o termo interação não capta o sentido exclusivo desta modalidade porque a noção relacionada com o prefixo ’inter’ origina-se na modalidade espacial e a ideia de ’ação’ na modalidade física. Neste caso, o termo _sociação_ (_vergesellschaftung_), cunhado inicialmente pelo sociólogo alemão Georg Simmel (SIMMEL; MORAES FILHO, 1983, p. 59–60), parece ser o mais adequado. Todavia, este conceito é utilizado aqui no sentido específico em que denota o elemento fundante de todo e qualquer fenômeno social e não as implicações teórico-metodológicas por ele propostas. 
+    - **Coesão Social.** 
+    - _Quão sociável? Há cooperação e encorajamento? Quais comunidades e associações estão presentes?_
 
-### Econômica
+### Econômica (frugalidade)
 
-Econômica (_frugalidade_): a) Possibilita a administração de recursos com frugalidade e, com efeito, proporciona princípios para a evasão de meios excessivos para se alcançar qualquer objetivo (DOOYEWEERD, 1984a, p. 67). Assim, a aplicação técnica da ciência econômica, em seu sentido fundamental, pauta-se na busca pelo controle de recursos com grau máximo de eficiência. B) Eficiência, Avaliação Econômica. C) Quão valioso? É acessível, econômico, gerenciável?
+- Possibilita a administração de recursos com frugalidade e, com efeito, proporciona princípios para a evasão de meios excessivos para se alcançar qualquer objetivo (DOOYEWEERD, 1984a, p. 67). Assim, a aplicação técnica da ciência econômica, em seu sentido fundamental, pauta-se na busca pelo controle de recursos com grau máximo de eficiência. 
+    - **Eficiência, Avaliação Econômica.** 
+    - _Quão valioso? É acessível, econômico, gerenciável?_
 
-### Operacional
+### Operacional (vocação)
 
-Operacional (_vocação_): a) Tem por núcleo de sentido a vocação, que possibilita o trabalho humano, compreendido aqui não como a simples execução de tarefas ou atividades, mas como um conjunto de ações formativas que operacionalizam o conteúdo da modalidade ética, sejam elas executadas individualmente ou, de forma mais geral, através dos sistemas sociais. No sentido em que promove a sustentabilidade de sistemas socioambientais o trabalho não se restringe ao cumprimento de tarefas, nem se reduz à busca de recursos financeiros com um fim em si mesmo, mas constitui-se como vocação, pessoal e institucional, com senso de propósito, chamado, cumprimento. B) Trabalho, Modus Operandi, Gerenciamento. C) Quão realizador é o trabalho? Qual o trabalho necessário?
+- Tem por núcleo de sentido a vocação, que possibilita o trabalho humano, compreendido aqui não como a simples execução de tarefas ou atividades, mas como um conjunto de ações formativas que operacionalizam o conteúdo da modalidade ética, sejam elas executadas individualmente ou, de forma mais geral, através dos sistemas sociais. No sentido em que promove a sustentabilidade de sistemas socioambientais o trabalho não se restringe ao cumprimento de tarefas, nem se reduz à busca de recursos financeiros com um fim em si mesmo, mas constitui-se como vocação, pessoal e institucional, com senso de propósito, chamado, cumprimento. 
+    - **Trabalho, Modus Operandi, Gerenciamento.** 
+    - _Quão realizador é o trabalho? Qual o trabalho necessário?_
 
-### Jurídica
+### Jurídica (obrigação)
 
-Jurídica (_obrigação_): a) A obrigação, que define o núcleo de sentido desta modalidade, é compreendida aqui no que se refere ao sentido técnico de conservação daquilo que é devido equitativamente. B) Direitos e Deveres. C) Quão justo? É justo e correto para todos os envolvidos? A ação ou decisão pode ser justificada? Há muita, ou pouca, regulamentação?
+- A obrigação, que define o núcleo de sentido desta modalidade, é compreendida aqui no que se refere ao sentido técnico de conservação daquilo que é devido equitativamente. 
+    - **Direitos e Deveres.** 
+    - _Quão justo? É justo e correto para todos os envolvidos? A ação ou decisão pode ser justificada? Há muita, ou pouca, regulamentação?_
 
-### Estética
+### Estética (harmonia)
 
-Estética (_harmonia_): a) Modalidade composta por diversas normas estéticas, que possibilitam toda forma de arte que se manifesta através da individualidade humana. Tem como núcleo de sentido a harmonia em seu sentido original (DOOYEWEERD, 1984a, p. 128), que permite unidade na multiplicidade, não devendo ser confundida, portanto, com o conceito de beleza, que pode assumir formas distintas de expressão histórica. B) Apelo Visual, Beleza Cênica, Estilo Arquitetônico. C) Quão agradável e prazeroso? Há alguma alusão desafiadora, alguma nuance?
+- Modalidade composta por diversas normas estéticas, que possibilitam toda forma de arte que se manifesta através da individualidade humana. Tem como núcleo de sentido a harmonia em seu sentido original (DOOYEWEERD, 1984a, p. 128), que permite unidade na multiplicidade, não devendo ser confundida, portanto, com o conceito de beleza, que pode assumir formas distintas de expressão histórica. 
+    - **Apelo Visual, Beleza Cênica, Estilo Arquitetônico.** 
+    - _Quão agradável e prazeroso? Há alguma alusão desafiadora, alguma nuance?_
 
-### Ética
+### Ética (_ágape_)
 
-Ética (_ágape_): a) O momento nuclear da modalidade ética é o amor, cujo sentido pleno é captado pelo termo grego _ágape_, que denota o amor divino, em contraste com o filial e ao erótico, _eros_. Trata-se do amor sacrificial, que demanda de seu praticante uma obrigação moral. É diferente do amor Eros, cuja apetência é voltada para a atração do objeto amado (DE RAADT, 2000, p. 31). De fato, explica Dooyeweerd, não há virtude moral verdadeira que em última instância não seja uma manifestação do amor ágape. B) Questões Éticas. C) Quão ético? As promessas estão sendo cumpridas ou quebradas? É amável, cuidadoso, sacrificial, seguro? Outridade.
+- O momento nuclear da modalidade ética é o amor, cujo sentido pleno é captado pelo termo grego _ágape_, que denota o amor divino, em contraste com o filial e ao erótico, _eros_. Trata-se do amor sacrificial, que demanda de seu praticante uma obrigação moral. É diferente do amor Eros, cuja apetência é voltada para a atração do objeto amado (DE RAADT, 2000, p. 31). De fato, explica Dooyeweerd, não há virtude moral verdadeira que em última instância não seja uma manifestação do amor ágape. 
+    - **Questões Éticas.** 
+    - _Quão ético? As promessas estão sendo cumpridas ou quebradas? É amável, cuidadoso, sacrificial, seguro? Outridade._
 
 ## Dogmatismo ou dialogismo?
 
