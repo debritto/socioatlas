@@ -17,7 +17,7 @@ Para tanto, realizaremos uma breve exploração da literatura especializada iden
 2. delinearemos uma distinção entre ideia e conceito; 
 3. exploraremos algumas dimensões e fatores relacionados ao conteúdo da ideia de sustentabilidade e algumas implicações epistemológicas que possam nos orientar na escolha e utilização de uma metodologia apta a lidar com a sustentabilidade sem que percamos de vista a plenitude de sua complexidade.
 
-## BREVE HISTÓRICO
+## Breve histórico
 
 Segundo o pesquisador alemão Ulrich Grober, o termo alemão _nachhaltende_ refere-se de maneira muito próxima ao que hoje chamamos de sustentabilidade. Ele foi utilizado pela primeira vez pelo alemão Hans Carl von Carlowitz (1645-1714) em seu livro _Sylvicultura Oeconomica_, um manual de economia florestal publicado em 1713. Preocupado com o descontrole na exploração de madeira, ele chamou a atenção para a necessidade de uma perspectiva administrativa de longo prazo, de modo que o processo de crescimento e corte das árvores se desse de forma equilibrada, preservando, assim, a utilização do recurso (GROBER, 2012). Nas palavras de Carlowitz:
 
@@ -35,7 +35,7 @@ Desde então, foram realizadas diversas outras conferências[^1], incluindo a RI
 
 Para Sachs, o notável é que desde as conferências da década de 1970, a sustentabilidade consolidou-se cada vez mais na agenda internacional, promovendo uma considera- ção global acerca da questão ambiental e, com ela, "consequências éticas e epistemo- lógicas de longo alcance, as quais influenciaram o pensamento sobre o desenvolvimento"(SACHS, 2002, p. 49, grifo nosso).
 
-## ’IDEACIONANDO’ A SUSTENTABILIDADE
+## 'Ideacionando' a sustentabilidade
 
 Devido a sua atual influência, há quem considere a sustentabilidade como uma _ideia-força_ (BRUNSTEIN; RODRIGUES; SCARTTEZINI, 2012; KANASHIRO, 2010; TEODÓSIO; BARBIERI; CSILLAG, 2006). O termo _idées-forces_ foi cunhado pelo filósofo francês Alfred Fouillée (1838-1912) com base na hipótese de que algumas ideias pos- suem tal capacidade de penetração na consciência humana que alcançam "a mais íntima esfera da vontade"(GOOD, 1993, p.  8, tradução nossa), motivando-a e inspirando-a de tal forma que a conduz, assim, à ação no mundo real. Elas possuem, portanto, um caráter inspiracional diferenciado. De acordo com Mora e Terricabras, para Fouillée "a idéia não só pode ter uma força, mas pode ser ela mesma uma força"(MORA; TERRI- CABRAS, 1994, p. 1419, grifo do autor). Neste sentido, explica o pesquisador Robert Good, elas podem ser "úteis como uma ferramenta de análise psicológica, mas duvidosas se elevadas ao status de realidade ontológica"(GOOD, 1993, p. 9). No presente trabalho, portanto, compreendemos as ideias, stricto sensu, como "aquelas formas do pensamento através das quais nos aproximamos e que transcendem os limites de um alcance conceitual"(STRAUSS, 2009, p. 195). 
 
@@ -49,7 +49,7 @@ Ora, daremos sequência a nossa exploração considerando exatamente esta últim
 [^1]: Para um painel com uma relação das principais conferências realizadas sobre desenvolvimento sustentável, e suas principais deliberações, veja (BRANDON; LOMBARDI, 2011, p. 7–11).
 
 
-## DIMENSÕES E FATORES ENVOLVIDOS
+## Dimensões e fatores envolvidos
 
 Como vimos, não há consenso acerca de um conceito único para a ideia de sustentabilidade, também não há estratégia exclusiva para alcançá-la e, tampouco, acordo sobre a percepção do real impacto causado pela degradação do meio ambiente em nível global. Todavia, parece não haver dúvidas de que modelos desenvolvimentistas que visam apenas ao crescimento econômico são agora confrontados com o esgotamento de recursos naturais, altos níveis de poluição e intensificação das desigualdades sociais (DE SOUSA SANTOS, 2005, p. 56). Há quem se refira à atual situação como resultado de uma crise múltipla, cuja dimensão traduz-se em tensões que afetam diversas áreas da vida humana e dos ecossistemas que as fundamentam (COMPAS, 2007, p. 53; MORIN, 1977, p. 56). 
 
@@ -88,7 +88,7 @@ Em última instância, as crenças religiosas corroboram para que indígenas[^3]
 
 [^5]: O tratamento teórico da religião nas ciências sociais, entretanto, envolve alguns desafios. No caso de uma antropologia da religião, por exemplo, há logo de início uma questão metodológica importante, afirma a pesquisadora brasileira Rita Segato. Ao lançar mão de metodologias que procuram relativizar a experiência religiosa, na tentativa de compreendê-la, a antropologia afasta-se de seu objeto de pesquisa na medida em que a crença religiosa é percebida e vivida como um absoluto pelos sujeitos pesquisados Segato (1992).
 
-## IMPLICAÇÕES EPISTEMOLÓGICAS
+## Implicações epistemológicas
 
 Focalizaremos, agora, algumas implicações epistemológicas envolvidas no trata- mento teórico das diversas dimensões e fatores envolvidos na ideia de sustentabilidade. Para tanto, consideraremos brevemente: 
 - A relação sociedade-natureza; 
@@ -112,7 +112,7 @@ Isto implica uma sociologia que supere a dicotomia sociedade/natureza, contempla
 
 [^6]: Mesmo esforçando-se para desenvolver uma nova perspectiva sociológica, o próprio Luhmann parece não ter conseguido desvencilhar-se da limitação analítica presente na dicotomia sociedade/natureza. Segundo ele, "tudo o que se relaciona com os problemas ecológicos se reduz à comunicação"(LUHMANN, 2011, p. 99).
 
-## Uma Abordagem Qualitativa
+### Uma Abordagem Qualitativa
 
 O tratamento teórico da sustentabilidade requer metodologias capazes de incorporar uma abordagem qualitativa das dimensões e fatores envolvidos. Todavia, isto não significa, de modo algum, o estabelecimento de uma contraposição entre números e letras (PIRES, 2008, p. 49), entre objetivismo e hermenêutica. Para Pires e Poupart (2008), é a natureza dos dados que pode ser quantitativa ou qualitativa. 
 
@@ -124,7 +124,7 @@ A abordagem qualitativa é importante na medida em que permite uma "construção
 
 Deste modo, uma abordagem qualitativa abre inúmeras possibilidades de investigação da sustentabilidade e viabiliza a consideração da ’voz dos diversos agentes’ envolvidos em conjunto com as percepções dos próprios investigadores.
 
-## Diálogo de Saberes
+### Diálogo de Saberes
 
 Dado o caráter multidimensional da sustentabilidade e o fato de que traz em seu corolário a demanda por um novo modelo de sociedade, fica clara a necessidade de um diálogo de saberes, que, por sua vez, requer novos paradigmas epistemológicos que possam fundamentar uma melhor compreensão das dimensões, fatores e inter-relações envolvidos e que sejam capazes de fundamentar intervenções sociais promotoras de sustentabilidade. Segundo De Raadt (2000), a lei da complexidade, desenvolvida por W. Ross Ashby a partir de seus estudos sobre a cibernética (ASHBY, 1970), aponta que problemas complexos requerem soluções complexas. 
 
@@ -145,7 +145,7 @@ Segundo Leff, "a partir dos anos 1960, a interdisciplinaridade e as teorias de s
 
 De modo geral, há atualmente diversos autores que reconhecem, a seu modo, a importância da transdisciplinaridade para a abordagem de temáticas relacionadas com a sustentabilidade (HADORN; POHL; SHERINGER, 2009; LEAVY, 2011, p. 49–50). No Paraná, a noção de "olhar transdisciplinar"(ITCG, 2008, p. 41) já é utilizada, pelo menos como terminologia que compõe a proposta de abordagem do ITCG à "complexidade da dinâmica fundiária e agrária brasileira"(ITCG, 2008, p. 41). Todavia, de modo geral, assim como ocorre com a ideia de sustentabilidade, ainda não há consenso quanto a sua definição e estratégias de operacionalização (HADORN; POHL; SHERINGER, 2009).
 
-## Intradisciplinaridade
+### Intradisciplinaridade
 
 Como vimos anteriormente, a fragmentação de saberes apresenta-se como um grande obstáculo à construção conjunta de conhecimento; o problema é que este fenômeno também ocorre dentro das fronteiras disciplinares. A sociologia, por exemplo, oferece uma miríade de métodos, teorias, conceitos, categorias de análise, que se estabelecem em meio a relações de tensão, contradição, complementação, sobreposição, negação. 
 
@@ -153,7 +153,7 @@ Em muitos casos, o que se observa é que há pouco diálogo entre as diversas su
 
 Assim, se o diálogo entre e para além das disciplinas é salutar para a busca de estratégias de construção e manutenção da sustentabilidade, a mesma postura precisa ser adotada internamente. Obviamente, a superação das incompatibilidades epistemológicas em muitos casos não é possível, mas o caminho para a construção do diálogo é válido per se e pode nos brindar com a descoberta de conceitos compatíveis que podem ser utilizados para compor instrumentos analíticos mais complexos e que, com efeito, contribuam para a construção de uma transdisciplinaridade mais rica, apta a lidar com problemáticas cujo tema central seja a construção da sustentabilidade socioambiental.
 
-## Questão das Origens
+### Questão das Origens
 
 A proposta do diálogo de saberes, considerada principalmente desde a pers- pectiva da transdisciplinaridade sem desconsiderar a intradisciplinaridade, traz em seu corolário a questão da unidade do conhecimento, que por sua vez se relaciona, em última instância, com outro debate – ao mesmo tempo, importante, complexo e delicado que trata da origem da diversidade e coerência presente na realidade. Este debate, todavia, não é recente. Por volta de 1897, por exemplo, o teólogo e filósofo holandês Abraham Kuyper já argumentava:
 
@@ -162,11 +162,11 @@ A proposta do diálogo de saberes, considerada principalmente desde a pers- pect
 
 Deste modo, uma compreensão mais acurada do todo na sua relação com as partes, e que envolve, podemos inferir, o próprio esforço de fundamentação de um diálogo de saberes a partir da noção de transdisciplinaridade, evoca também questões acerca da própria origem da realidade e sua diversidade, tocando igualmente em propostas científicas e crenças religiosas, apontando, mais uma vez, para a relevância da religião na discussão de questões relacionadas com a sustentabilidade. Isso aumenta, ainda mais, a complexidade envolvida. Mais recentemente, a importância da questão das origens também foi contemplada por Edgar Morin. Segundo ele, a questão da cosmogênese apresenta-se como "questão-chave da génese do método"(MORIN, 1977, p. 48).
 
-# IMPLICAÇÕES METODOLÓGICAS
+## Implicações metodológicas
 
 Abordaremos agora algumas implicações metodológicas importantes relaciona- das com a ideia de sustentabilidade.
 
-## Modelo Para a Sustentabilidade
+### Modelo para a sustentabilidade
 
 Os pesquisadores Peter S. Brandon, professor emérito da Universidade de Salford na Inglaterra, e Patrizia Lombardi, da Universidade Politécnica de Torino na Itália, desenvolveram um modelo de avaliação de projetos no ambiente urbano em termos de sua sustentabilidade. Para tanto, eles fundamentaram-se na Teoria das Esferas Modais desenvolvida por Herman Dooyeweerd, assim conseguiram viabilizar um método de avaliação capaz de integrar e harmonizar inclusive elementos presentes em outras propostas metodológicas. Uma vez que a proposta da Teoria Modal se baseia justamente na tentativa de compreensão dos aspectos presentes na realidade, parece ser possível incluir sistemas de classificação diversos, elaborados em outros métodos, integrando-os aos aspectos modais formando um modelo avaliativo comum. Neste caso, a Teoria Multimodal funciona  como uma _meta-teoria_.  Eles deixam  claro que tal proposta constitui um projeto de escala maior, que eles abordam apenas de forma seminal e com o intuito de lançar bases para futuros desenvolvimentos. Uma das perguntas que guia tal investigação é "como criar uma estrutura de conhecimento e pensamento que nos permita desenvolver um vocabulário comum que todos os participantes no desenvolvimento sustentável possam possuir e para o qual eles se sintam capazes de contribuir"(BRANDON; LOMBARDI, 2005, p. p.vi, tradução nossa), uma pergunta cara também para nossa investigação. 
 
@@ -178,14 +178,15 @@ Isto posto, eles apresentam alguns princípios que devem guiar o processo de des
 
 Para alcançarem seu objetivo, Brandon e Lombardi avaliam diversos atores, indicadores e questões relacionadas com a sustentabilidade do meio urbano, observando inclusive o próprio desenvolvimento das propostas de delineamento do conceito de sustentabi- lidade apresentadas em diversos congressos internacionais (BRANDON; LOMBARDI, 2005, p. p.1-25, tradução nossa). Na sequência, são apresentadas algumas aborda- gens utilizadas no processo de avaliação da sustentabilidade, como o _Natural Step _- desenvolvido por Karl-Hendrick Robert, que focaliza uma abordagem que privilegia a manutenção dos processos naturais da terra; o conceito de capital comunitário - ela- borado por Maureen Hart, que parte do princípio de que os capitais institucionais e financeiros, humanos e culturais, bem como os naturais precisam ser observados 
 
-#### Figura 2.1: Modelo Para a Sustentabilidade.
+## Figura 2.1: Modelo Para a Sustentabilidade.
 Fonte: Adaptado (BRANDON; LOMBARDI, 2005, p. 97)
 
 
 É importante deixar claro que não faz parte do escopo desta pesquisa dar conta de todos os aspectos apresentados na _figura_ anterior este trabalho hercúleo seria objetivo de trabalho específico e tarefa para uma equipe transdisciplinar. No que tange os aspec- tos relacionados com a sustentabilidade, eles serão tomados em nossa investigação como indicativos, como possível orientação no processo de identificação de fatores presentes nos itens selecionados na coleta de dados. Neste sentido, vale dizer também que os termos apresentados de modo algum esgotam as possibilidades de fatores relacionados com a ideia de sustentabilidade, de modo que o próprio processo de investigação poderá trazer à luz novos fatores que possam ser relacionados aos aspectos multimodais. Isto posto, a partir dos aspectos modais apresentados no quadro anterior, diversos fatores relacionados com a ideia de sustentabilidade podem ser identificados com maior facilidade, por exemplo - adaptado de Lombardi (1999):
 
-Quantitativo| Densidade demográfica; População; Quantidade de recursos disponíveis; Número de espécies e seus níveis populacionais; estatísticas censitárias oficiais.
+Modalidades| Fatores
 -----|-----
+Quantitativo| Densidade demográfica; População; Quantidade de recursos disponíveis; Número de espécies e seus níveis populacionais; estatísticas censitárias oficiais.
 Espacial| Design (layout); Morfologia; Área construída; Localização; Proximidade; Forma do terreno – plano; montanhoso; etc.; Áreas vizinhas; Área urbana; Área distrital; Área de restinga; Manguezal; Orla; Áreas de proteção ambiental.
 Cinemático| Estradas; Ciclovias; Linhas férreas; Passeios para pedestres; Es- tacionamentos; Tráfego de veículos e embarcações; Movimentação de animais selvagens; Mobilidade; Acessibilidade; Movimentação de turistas; Dinâmica Territorial.
 Físico| Energia para atividade humana; Energia para atividade biótica; Energias convencionais (Petróleo e Gás) e alternativas; Ambiente físico; Pedologia; Geologia; Climatologia; Recursos Hídricos; Materiais de construção; Componentes; Edifícios; casas; Assentamentos; Povoados.
@@ -210,7 +211,7 @@ Também há situações em que um mesmo fator pode ser relacionado a mais de um 
 
 [^7]: Esta lista, de modo algum, é exaustiva ou se apresenta como um objetivo a ser alcançado em nosso trabalho de investigação.
 
-## Retóricas da Sustentabilidade na América Latina
+## Retóricas da sustentabilidade na América Latina
 
 Há, ainda, outro ponto importante que precisa ser abordado em relação a metodologias aplicadas ao estudo da sustentabilidade. Diz respeito ao que o sociólogo brasileiro Dimas Floriani chama de Retóricas da Sustentabilidade. Com base em seus estudos, Floriani observa que não há discurso hegemônico presente nas investigações e debates que envolvem a ideia de sustentabilidade, uma vez que os diversos agentes envolvidos em todas as partes destes processos produzem seus próprios discursos. 
 
@@ -233,7 +234,7 @@ Também por isso é que foram criadas as Trilhas de Auditoria, como veremos mais
 
 Isto posto, é necessária a identificação de fatores presentes nos aspectos éticos, estéticos, jurídicos, operacionais, econômicos, sociais, epistêmicos, informacionais, históricos, fiduciais, sensitivos, bióticos, regulatórios, físicos, cinemáti- cos, espaciais e quantitativos da realidade. Todos estes aspectos, serão abordados mais adiante a partir da fundamentação filosófica desenvolvida por Herman Dooyeweerd e Donald e Veronica De Raadt, que dá azo ao que passa a ser conhecido como Pensamento Sistêmico Multimodal.
 
-## À GUISA DE UMA DEFINIÇÃO
+## À guisa de uma definição
 
 De modo geral, sustentabilidade envolve a habilidade de um determinado as- pecto de manter-se indefinidamente em um determinado estado. Assim, é possível falar-se sustentabilidade econômica, quando este aspecto possui habilidade para supor- tar um definido nível de produção econômica indefinidamente. Uma sustentabilidade social, por sua vez, se fundamentaria na habilidade de um sistema social funcionar indefinidamente a partir de um nível de bem-estar social indefinidamente. 
 
@@ -246,3 +247,5 @@ Portanto, quando um subsistema, por algum motivo, compromete outros (na medida e
 
 
 Com aspectos posteriores, o efeito provavelmente será mais longo e mais sutil. Por exemplo, se as pessoas de uma região não possuem visão, nem compromisso com o lugar em que vivem - que são elementos do aspecto fiducial - então o padrão moral provavelmente será baixo, o que afetará novamente o funcionamento de todos os outros aspectos (BASDEN; LOMBARDI, 1997, p. 481, tradução nossa). Assim, com vistas a uma conceituação mais ampla, podemos dizer que a sustentabilidade é a habilidade que um sistema complexo deve alcançar para manter a harmonia entre os diversos fatores, dimensões e aspectos nele presentes indefinidamente. Cada aspecto neste caso, seja social, jurídico, econômico, biótico, deve contemplar algumas especificidades.
+
+### Notas
