@@ -194,6 +194,167 @@ Finalmente, a proposta elaborada por Dooyeweerd permite não só a compreensão 
 {{< youtube id="PCMmLiuktcg" class="my-vimeo-wrapper-class" title="Sobre o coração" >}}
 
 
+# **REFERÊNCIAS**
+
+AGOSTINHO, Santo. _A cidade de Deus_. Volume I (livros I a VIII). 2ª. Ed. Lisboa: Fundação Calouste Gulbenkian. 1996.
+
+BASDEN, Andrew. _A brief overview of Herman Dooyeweerd’s philosophy_. 2007. Disponível em: &lt;http://www.allofliferedeemed.co.uk/basdenoverdooy.htm>. Acesso em: 11 fev. 2010.
+
+BASDEN, Andrew. _Truth: relative and absolute_. 2005. Disponível em: &lt;http://www.dooy.salford.ac.uk/truth.html>. Acesso em: 11 fev. 2010.
+
+BASDEN, Andrew. _A dooyeweerdian theory of ethics: the Shalom principle_. 2002. Disponível em: &lt;[http://www.isi.salford.ac.uk/dooy/shalom.html](http://www.isi.salford.ac.uk/dooy/shalom.html)>. Acesso em: 11 fev. 2010.
+
+BASDEN, Andrew; LOMBARDI, Patrizia. _Environmental sustainability and information systems: the similarities_. In: Systems Practice. Springer Netherlands. Vol. 10, No. 4, 1997, pp.473-489.
+
+BERGER, Peter. O dossel sagrado: elementos para uma teoria sociológica da religião. São Paulo: Paulus. 1985.
+
+BERGER, Peter. Rumor de anjos: a sociedade moderna e a redescoberta do sobrenatural. 2a. ed. Rio de Janeiro: Vozes. 1996.
+
+BÍBLIA. Português. Nova Versão Internacional. São Paulo: Editora Vida. 2000.
+
+BIOCIDADE. Em busca da cidade sustentável. Ed. Especial. Prefeitura Municipal de Curitiba. 2009.
+
+BRANDON, Peter S.; LOMBARDI, Patrizia. _Evaluating sustainable development in the built environment_. 2nd. Ed.  Oxford: Wiley-Blackwell. 2011.
+
+BRILL, Kornelis A. _Vollenhoven’s problem-historical method: introduction and explorations_. Iowa: Dordt College Press. 2005.
+
+BRITTO, Christian M. _Desenvolvimento Sustentável de Comunidades: uma breve introdução ao Método Sistêmico Multimodal_. In: 6º Congresso Brasileiro de Sistemas. 2010. Foz do Iguaçu: Unioeste. CD-ROM. 
+
+CALVINO, João. _A instituição da religião Cristã._ Tomo I. São Paulo: Editora Unesp. 2008.
+
+CARVALHO, G. V. R. Herman Dooyeweerd, Reformador da Razão. In: DOOYEWEERD, Herman. _No Crepúsculo do Pensamento Ocidental: estudos sobre a pretensa autonomia do pensamento filosófico_. São Paulo: Hagnos, 2010, p. 5-44.
+
+CASSIRER, Ernst. _A filosofia das formas simbólicas_. Segunda Parte. O Pensamento Mítico. São Paulo: Martins Fontes. 2004.
+
+COMPAS - Principles of endogenous development. Em: Learning endogenous development: building on bio-cultural diversity. UK: Practical Action Publishing. 2007. Cap. 1, 5-40.
+
+DE ALMEIDA, Maria da Conceição. _Para compreender la complejidad. _Hermosillho: Multiversidad Mundo Real Edgar Morin. 2008.
+
+DE MENESES, Ramiro Délio Borges. _O movimento e o espaço segundo Kant_. Revista de Filosofia. Vol. 31. N.1 2006 (pp.61-74). Disponível em [http://revistas.ucm.es/fsl/00348244/articulos/RESF0606120061A.PDF  ](http://revistas.ucm.es/fsl/00348244/articulos/RESF0606120061A.PDF)Acesso em: 16 ago. 2010.
+
+DE RAADT, J. D. R. _Redesign and management of communities in crisis_. USA: Universal Publishers. 2000.
+
+DE RAADT, Veronica D. _Ethics and sustainable community design._ USA: Universal Publishers. 2002.
+
+DE SOUSA SANTOS, Boaventura. _A crítica da razão indolente_: contra o desperdício da experiência. 5.ed. São Paulo: Cortez, 2005.
+
+DESCARTES, René. _Meditações metafísicas_. São Paulo: Martins Fontes. 2005.
+
+DIEGUES, Antonio Carlos. Desenvolvimento sustentável ou sociedades sustentáveis: da crítica dos modelos aos novos paradigmas. São Paulo em Perspectiva, n.1-2, Jan./Jul. 1992.
+
+DOOYEWEERD, Herman. _A new critique of theorethical thought_. Volume I. Canadá: Paideia Press Ltd. 1984a. Disponível em: &lt;http://www.reformationalpublishingproject.com/pdf_books/Scanned_Books_PDF/ANewCritiqueofTheoreticalThoughtVolsI_II.pdf>. Acesso em: 11 fev. 2010.
+
+DOOYEWEERD, Herman. _A new critique of theorethical thought_. Volume II. Canadá: Paideia Press Ltd. 1984b. Disponível em: &lt;http://www.reformationalpublishingproject.com/pdf_books/Scanned_Books_PDF/ANewCritiqueofTheoreticalThoughtVolsI_II.pdf>. Acesso em: 11 fev. 2010.
+
+DOOYEWEERD, Herman. _Creation and evolution_. 1966. Disponível em: &lt;[http://www.reformationalpublishingproject.com/pdf_books/Scanned_Books_PDF/CreationandEvolution.pdf](http://www.reformationalpublishingproject.com/pdf_books/Scanned_Books_PDF/CreationandEvolution.pdf)>. Acesso em: 4 jul. 2011. 
+
+DOOYEWEERD, Herman. _Encyclopedia of the science of law_. Vol. 1:Introduction. United Kingdom: The Edwin Mellen Press. 2006.
+
+DOOYEWEERD, Herman. _A christian theory of social institutions_. USA: La Jolla. 1986.
+
+DOOYEWEERD, Herman. _Roots of western culture: pagan, secular, and christian options_. Canada: The Edwin Mellen Press. 2003. Disponível em: &lt;http://www.reformationalpublishingproject.com/pdf_books/Scanned_Books_PDF/RootsOfWesternCulture.pdf>. Acesso em 11 fev. 2010.
+
+EL-HANI, Charbel Nino; VIDEIRA, Antonio Augusto Passos. _O que é vida?: para entender a biologia do seculo XXI_. Rio de Janeiro: Relume Dumara, 2000.
+
+FERNANDES, Ricardo Cid. _Os kaingang e a natureza_. In: Simpósio de etnobiologia e etnologia da região sul: aspectos humanos da biodiversidade. Anais. Florianópolis: UFSC-SBEE. 2003.
+
+FLORIANI, Dimas. _Conhecimento, meio ambiente & globalização._ Curitiba: Juruá. 2010.
+
+FLORIANI, Dimas. _Por uma epistemologia da diversidade._ In: Impactos socioambientais: o desafio da construção de hidrelétricas. NAVAL, Liliana P.; PARENTE, Temis G. (orgs.). Goiânia: Cânone Editorial. 2009. 
+
+FLORIANI, Dimas. Ciências em trânsito, objetos complexos: práticas e discursos socioambientais. Ambiente e Sociedade, Campinas, v. 9, n. 1, Jan/Jun 2006.
+
+FOLADORI, Guillermo. Ecologia, capital e cultura: racionalidade ambiental, democracia participativa e desenvolvimento sustentável. Ambient. soc., Campinas, n. 6-7, Jun. 2000 . Disponível em: &lt;http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-753X2000000100010&lng=en&nrm=iso>. Acesso em: 07 Julho 2010.
+
+GEERTSEMA, Henk. _Intro to Dooyeweerd’s transcedental critique. _Aula gravado por Xiaomei Ge. 10 out. 2005. International Masters in Christian Studies of Science and Society Program. Amsterdam: Vrije Universiteit. Disponível em: &lt;http://honest2pod.castpost.com/GeertsemaOnHDTransCrit1.mp3>. Acesso em: 11 fev. 2010.
+
+GEERTZ, Clifford. O beliscão do destino: a religião como experiência, sentido, identidade e poder. Em: GEERTZ, Clifford. Nova luz sobre a antropologia. Rio de Janeiro: Zahar Editora. 2001. Cap. 8, 149-165.
+
+GITT, Werner. _In the beginning was information_. Germany: Christliche Literatur-Verbreitung e. V. 1997.
+
+GUIMARÃES, Cláudia. Enrique Leff: "precisamos de uma nova racionalidade".  _Senac e educação ambiental_, Rio de Janeiro, v. 1, n. 1, p. 8-12, jan./abr. 2007.
+
+HOOYKAAS, R. _A religião e o desenvolvimento da ciência moderna_. Brasília: Editora Universidade de Brasília. 1988.
+
+IBGE - Indicadores do desenvolvimento sustentável - Brasil 2004. Em: &lt;http://www.ibge.gov.br/home/geociencias/recursosnaturais/ids/introducao.pdf>. Acesso em: 24/12/2009.
+
+KOK, John H. _Patterns of the western mind: a reformed christian perspective_. 2ed. Iowa: Dordt College Press. 1998.
+
+KUYPER, Abraham. _Encyclopedia of sacred theology: it’s principles. _Reforming Science. 2008.
+
+LEFF, Enrique. _Racionalidade ambiental: a reapropriação social da natureza. _Rio de Janeiro: Civilização Brasileira. 2006.
+
+LEFF, Enrique. _Ecologia, capital e cultura: a territorialização da racionalidade ambiental_. Rio de Janeiro: Vozes. 2009.
+
+LOURENÇO, Adauto. _Como tudo começou: uma introdução ao criacionismo_. São Paulo: Editora Fiel. 2007.
+
+LUBENOW, Marvin L. _Bones of contention: a creationist assessment of human fossils_. Revised Edition. Grand Rapids: Baker Books. 2004.
+
+MAÇANEIRO, Marcial. _Religiões & ecologia_:_ cosmovisão, valores, tarefas_. São Paulo: Paulinas. 2011.
+
+MORIN, Edgar. _O método I: a natureza da natureza_. Lisboa: Europa-América. 1977
+
+MORIN, Edgar. _O método II: a vida da vida_. 2ª. Ed. Lisboa: Europa-América. 1989
+
+MORIN, Edgar. _O método III: o conhecimento do conhecimento_. Lisboa: Europa-América. 1986.
+
+MORIN, Edgar. _O método IV: as ideias sua natureza, vida, habitat e organização_. Lisboa: Europa-América. 1991.
+
+MORIN, Edgar. _O método V: a humanidade da humanidade. _Porto Alegre: Sulina, 2005.
+
+MORIN, Edgar. _Problemas de uma epistemologia complexa._ In: O problema epistemológico da complexidade. Lisboa: Europa-América. 1983
+
+MORRIS, Henry M. An_ inconvenient truth_. Acts & Facts, Dallas: Institute for Creation Research. Vol. 39, n. 10, p. 21-3, oct. 2010.
+
+MONTUORI, Alfonso. _Edgar Morin’s path of complexity_. In: On complexity. Edgar Morin. New Jersey: Hampton Press. 2008. 
+
+NICOLESCU, Basarab. _O manifesto da transdisciplinaridade_. São Paulo: Triom. 1999.
+
+OLIVEIRA, Gilson Batista. Uma discussão sobre o conceito de desenvolvimento. Em: OLIVEIRA,
+
+Gilson Batista; SOUZA-LIMA, José Edmilson de (orgs). O desenvolvimento sustentável em foco: uma contribuição multidisciplinar. São Paulo: Annablume Editora. 2006. Cap. 1, 15-30.
+
+PASCAL, Blaise. _Pensamentos_. Os Pensadores, 2a. Ed. São Paulo: Abril Cultural. 1979.
+
+PAULISTA, Geralda; VARVAKIS, Gregório; MONTIBELLER-FILHO, Gilberto. Espaço emocional e indicadores de sustentabilidade. Ambiente e Sociedade,Campinas, v. 11, n. 1,Junho, 2008.
+
+PRINSTERER, Guillaume Groen Van. _Unbelief and revolution: a series of lectures in history._ Ontario: Wedge. 2000.  (tradução: Harry Van Dyke) Disponível em: &lt;http://www.allofliferedeemed.co.uk/groenvanprinsterer.htm>. Acesso em 11 fev. 2010.
+
+REALE, Giovanni. ANTISERI, Dario. _História da filosofia, 6: de Nietzsche à Escola de Frankfurt_. São Paulo: Paulus. 2ª. Ed. 2008.
+
+RIBEIRO, Luciane M. _Ética e religião em Emmanuel Lévinas_. In: Cadernos pet filosofia: Deus na história da filosofia. No. 11. Curitiba: Editora UFPR. 2009.
+
+SACHS, Ignacy. Em busca de novas estratégias de desenvolvimento. Estud. av., São Paulo, v. 9, n. 25, Dez. 1995 . Disponível em &lt;http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40141995000300004&lng=en&nrm=iso>. Acesso em: 30 Junho 2010.
+
+SACHS, Ignacy. Desenvolvimento: includente, sustentável, sustentado. Rio de Janeiro: Garamond, 2004.
+
+SCHAEFFER, Francis A. _Poluição e morte do homem: uma perspectiva cristã da ecologia_. Rio de Janeiro: Junta de Educação Religiosa e Publicações. 1976.
+
+SEGATO, Rita L. _Um paradoxo do Relativismo: o Discurso Racional da Antropologia Frente ao Sagrado_. _Revista Religião e Sociedade_, vol. 16, nº 1, Rio de Janeiro: ISER, 1992.
+
+SPETNER, Lee M. _Not by Chance!: Shattering the Modern Theory of Evolution_. New York: Judaica Press. 1998.
+
+STRAUSS, Daniel F. M. _Reintegrating social theory: reflecting upon human society and the discipline of sociology_. Peter Lang Publishing. 2005.
+
+STRAUSS, Daniel. _Philosophy: Discipline of The Disciplines._ Canada: Paideia Press - Reformational Publishing Project. 2009.
+
+STRAUSS, Daniel. _The (social) construction of the world – at the crosswords of Christianity and Humanism_. South African Journal of Philosophy. 28. 2009b. Disponível em: &lt;[http://www.allofliferedeemed.co.uk/Strauss/Strauss.pdf](http://www.allofliferedeemed.co.uk/Strauss/Strauss.pdf)>. Acesso em: 20 fev. 2010.
+
+UNAM. _Estudios Agrarios_. Disponível em: &lt;[http://www.iis.unam.mx/areas/agrarios/leff.html](http://www.iis.unam.mx/areas/agrarios/leff.html)>. Acesso em: 04 jun. 2011.
+
+UNESCO. Educação para um futuro sustentável: uma visão transdisciplinr para ações compartilhadas. Brasília: Editora IBAMA. 1999.
+
+VARDIMAN, Larry; SNELLING, Andrew A.; CHAFFIN, Eugene F. _Radioisotopes and The Age of The Earth: a young-earth creationist research initiative_. California: Institute for Creation Research. 2000.
+
+VEIGA, José Eli da. Desenvolvimento sustentável: o desafio do século XXI. Rio de Janeiro: Garamond. 2005.
+
+WEBER, Max. _A ética protestante e o “espírito” do capitalismo_. São Paulo: Companhia das Letras. 2004.
+
+WEBER, Max. _As seitas protestantes e o espírito do capitalismo_. In: Ensaios de sociologia. 3ª. Ed. Rio de Janeiro: Zahar Editores. 1974.
+
+YOUNG, William. _Herman Dooyeweerd_. In: HUGHES, P. E. (ed). Creative minds in contemporary theology. Grand Rapids: Eerdmans. 1966. pp.270-306. Disponível em: &lt;http://www.freewebs.com/reformational/YoungonHD.pdf>. Acesso em: 11 fev. 2010.
+
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notas
 
@@ -234,7 +395,7 @@ Finalmente, a proposta elaborada por Dooyeweerd permite não só a compreensão 
     Princípio presente no pensamento de Calvino (CALVINO, 2008, p.37ss).
 
 [^13]:
-    Neste sentido, Dooyeweerd explica que para Aristóteles deus seria o pensamento puro e absoluto, não mais restrito aos sentidos, por consequência sua perspectiva antropológica se fundamentava na habilidade teórica de pensar que distinguia o Homem dos animais. Para Leibniz, deus seria o grande geômetra (_intellectus archetypus_), assim o centro da natureza humana seria o pensamento matemático. Para Kant, deus seria essencialmente moral, portanto o centro da natureza humana seria a função moral autônoma e supra sensorial. Nos chamados povos _primitivos_, onde se encontra a cultura do _mana_, que envolve a submissão do grupo a forças naturais impessoais, e do _totemismo, _onde o grupo local se identifica com o _totem_ familiar. O que se averígua em ambos os casos é a não percepção da personalidade humana que se confunde com animais, plantas e coisas inorgânicas.
+    Neste sentido, Dooyeweerd explica que para Aristóteles deus seria o pensamento puro e absoluto, não mais restrito aos sentidos, por consequência sua perspectiva antropológica se fundamentava na habilidade teórica de pensar que distinguia o Homem dos animais. Para Leibniz, deus seria o grande geômetra (_intellectus archetypus_), assim o centro da natureza humana seria o pensamento matemático. Para Kant, deus seria essencialmente moral, portanto o centro da natureza humana seria a função moral autônoma e supra sensorial. Nos chamados povos _primitivos_, onde se encontra a cultura do _mana_, que envolve a submissão do grupo a forças naturais impessoais, e do _totemismo_ - no qual o grupo local se identifica com o _totem_ familiar. O que se averígua em ambos os casos é a não percepção da personalidade humana que se confunde com animais, plantas e coisas inorgânicas.
 
 [^14]:
     Lembrando que a ideia de posição aqui não se refere a nenhuma relação espacial - que só é possível _através_ de leis específicas próprias da modalidade espacial - mas à _ordem_ cósmica do tempo (DOOYEWEERD, 1984b, p.50).
