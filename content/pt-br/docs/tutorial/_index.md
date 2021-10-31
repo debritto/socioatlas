@@ -1,12 +1,12 @@
 ---
-title: Tutorial
-slug: passos
+title: "Como começar"
+slug: tutorial
+description: "Aprenda a utilizar o SocioAtlas."
 weight: 1
-description: null
 author: null
 date: '2021-09-17T18:56:16.472Z'
 lastmod: '2021-09-17T18:56:16.472Z'
-draft: false
+draft: true
 tags: []
 categories: []
 ---
