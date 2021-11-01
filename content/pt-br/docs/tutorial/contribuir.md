@@ -3,6 +3,7 @@ title: "Como contribuir"
 slug: contribuir
 description: 'Há diversas maneiras de contribuir com o projeto, saiba como.'
 author: null
+weight: 4
 date: 2021-10-31T21:41:14-03:00
 draft: false
 tags: []

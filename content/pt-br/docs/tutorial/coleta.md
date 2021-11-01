@@ -3,6 +3,7 @@ title: Coleta de dados
 slug: coleta-de-dados
 description: "Informações técnicas sobre a coleta de dados."
 author: null
+weight: 3
 date: '2021-10-17T22:29:35.805Z'
 lastmod: '2021-09-17T18:56:16.472Z'
 draft: false
