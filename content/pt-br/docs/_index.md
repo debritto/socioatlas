@@ -1,8 +1,8 @@
-
 ---
-title: "Documentação"
-linkTitle: "Documentacao"
+title: Documentação
+linkTitle: Documentacao
 weight: 20
+draft: false
 menu:
   main:
     weight: 20
