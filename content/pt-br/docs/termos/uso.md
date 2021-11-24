@@ -1,11 +1,11 @@
 ---
-title: "Termos de uso"
+title: Termos de uso
 slug: uso
 weight: 3
 author: null
-date: 2021-11-04T15:06:45-03:00
+date: 2021-11-04T18:06:45.000Z
 lastmod: '2021-09-17T18:56:16.472Z'
-draft: false
+draft: true
 tags: []
 categories: []
 ---
