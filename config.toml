@@ -106,7 +106,7 @@ section = ["HTML", "print", "RSS"]
 
 [params]
 copyright = "SocioAtlas"
-privacy_policy = "https://policies.google.com/privacy"
+privacy_policy = "https://www.socioatlas.xyz/docs/termos/privacidade/"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
