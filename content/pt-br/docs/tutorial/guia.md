@@ -11,15 +11,15 @@ tags: []
 categories: []
 ---
 
-O SocioAtlas é um programa de computador que viabiliza análises de dados de acordo com o Método Sistêmico Multimodal. Para que possa ser utilizado por qualquer pessoa - e de modo colaborativo, permitindo que você trabalhe em equipe com outros pesquisadores ou lideranças interessadas - o programa SocioAtlas foi inserido dentro de uma planilha do tipo Google Sheets. Deste modo, usufruímos da plataforma gratuita do Google, já projetada para utilização on-line com todos os requisitos de segurança necessários. 
+O SocioAtlas é um software que cria um **banco de de conhecimento com ideias conectadas entre si**, _um segundo cérebro_. Neste sentido, ele viabiliza um ambiente pensamento, organizando os dados de acordo com o **Método Sistêmico Multimodal**. Para que possa ser utilizado por qualquer pessoa - e de modo colaborativo, permitindo que você trabalhe em equipe com outros pesquisadores ou lideranças interessadas - o SocioAtlas foi criado para ser instalado em uma planilha comum do Google Sheets. Assim, usufruímos da plataforma gratuita do Google, já projetada para utilização on-line com todos os requisitos de segurança necessários. 
 
 Para utilizar o SocioAtlas você precisará de:
-1. Conta no GMail[^1].
+1. Uma conta no GMail[^1].
 2. Acesso ao Google Drive[^2].
 3. Acesso ao Google Docs[^3] e Google Sheets[^4].
 
 
-Ao obter uma cópia do SocioAtlas, você receberá uma planilha do Google Sheets totalmente formatada ser utilizada segundo os padrões da metodologia. Cuidado para não realizar alterações indevidas, que podem ocasionar erros de processamento. Todavia, caso algo ocorra de modo indesejado você pode começar novamente obtendo uma nova cópia, "limpa", do SocioAtlas.
+Após instalar uma cópia do SocioAtlas, sua planilha do Google Sheets será totalmente formatada para ser utilizada como um banco de conhecimento sistêmico. Antes de começar a utilizá-lo, leia antentamnte este Guia Rápido, cuidando para não realizar alterações indevidas que possam ocasionar erros de processamento. Todavia, caso algo ocorra de modo indesejado, basta começar novamente instalando uma nova cópia do SocioAtlas em uma planilha em branco.
 
 {{% alert title="Importante" color="warning" %}}
 OBS: Os dados lançados na planilha, exceto o programa SocioAtlas nela inserido, pertencem exclusivamente aos usuários, os desenvolvedores e/ou mantenedores do SocioAtlas não se responsabilizam por perdas de dados ou erros de processamento.
@@ -51,23 +51,30 @@ De tempos em tempos serão lançadas novas versões, contendo aprimoramentos. Pa
 {{% /alert %}}
 
 
-# Instalação
+# Instalação diretamente dentro do Google Sheets
 
-1. Escolha um líder para o diagnostico, caso você esteja trabalhando em equipe.
-2. O líder precisa baixar uma cópia do SocioAtlas para o seu Google Drive.
-3. Líder compartilha o acesso ao SocioAtlas (sua cópia) com os membros de sua equipe, assim os dados ficam centralizados na planilha do líder.
+1. Crie uma planilha através do Google Sheets.
+2. Vá até a opção **Extensões->Complelentos** e escolha a opção **Instalar Complementos**.
+3. O Google abrirá uma janela com vários complementos disponívieis.
+4. Escolha a Na parte superior da janela, há um campo para pesquisa escrito **Pesquisar apps**, digite _SocioAtlas_ neste campo e pressione _Enter_.
+5. Você verá um _card_ com o nome SocioAtlas, clique nele e pressione o **Botão Instalar**.
+6. Responda atentamente todas as solicitações de autorização do Google.
+7. PRONTO! O SocioAtlas irá aparecer como uma opção no menu **Extensões**.
+8. No menu SocioAtlas, escolha a opção **Start!**.
+9. OK. Diversas guias serão criadas na sua planilha. 
+10. Leia as noções básicas logo abaixo.
 
-Este é o [link](https://docs.google.com/spreadsheets/d/1JHKCfwIdVw0ymode4hqhY8e1YhxkTj_5lAPHcwuep-Y/copy) para você baixar uma cópia do SocioAtlas.
 
-Se preferir, acesse com este QRCode através do seu celular:
+# Instalação pelo Google Workspace Marketplace
 
+Você também pode instalar o SocioAtlas a partir do Google Workspace Marketplace, este é o [link](https://workspace.google.com/marketplace/app/socioatlas/113414702386). Se preferir, acesse com este QRCode através do seu celular:
 
-![QRCode](/qrcode_socioatlas.png)
+![QRCode](/SocioAtlas_QRcode.png)
  
- 
- Após a confirmação, uma cópia do SocioAtlas será armazenada no seu Google Drive.
+Após a confirmação de instalação, crie uma planilha do Google Sheets e procure pelo SocioAtlas no menu **Extensões** e rode a opção **Start!**.
 
-# Como utilizar?
+
+# Como utilizar (noções básicas)?
 
 
 ## Fontes
