@@ -51,7 +51,7 @@ De tempos em tempos serão lançadas novas versões, contendo aprimoramentos. Pa
 {{% /alert %}}
 
 
-# Instalação diretamente dentro do Google Sheets
+# Instalação diretamente dentro do Google Sheets (recomendado)
 
 1. Crie uma planilha através do Google Sheets.
 2. Vá até a opção **Extensões->Complelentos** e escolha a opção **Instalar Complementos**.
