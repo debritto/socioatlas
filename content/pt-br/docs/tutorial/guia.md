@@ -19,7 +19,7 @@ Para utilizar o SocioAtlas você precisará de:
 3. Acesso ao Google Docs[^3] e Google Sheets[^4].
 
 
-Após instalar uma cópia do SocioAtlas, sua planilha do Google Sheets será totalmente formatada para ser utilizada como um banco de conhecimento sistêmico. Antes de começar a utilizá-lo, leia antentamnte este Guia Rápido, cuidando para não realizar alterações indevidas que possam ocasionar erros de processamento. Todavia, caso algo ocorra de modo indesejado, basta começar novamente instalando uma nova cópia do SocioAtlas em uma planilha em branco.
+Após instalar uma cópia do SocioAtlas, sua planilha do Google Sheets será totalmente formatada para ser utilizada como um banco de conhecimento sistêmico. Antes de começar a utilizá-lo, leia antentamente este Guia Rápido, cuidando para não realizar alterações indevidas que possam ocasionar erros de processamento. Todavia, caso algo ocorra de modo indesejado, basta começar novamente instalando uma nova cópia do SocioAtlas em uma planilha em branco.
 
 {{% alert title="Importante" color="warning" %}}
 OBS: Os dados lançados na planilha, exceto o programa SocioAtlas nela inserido, pertencem exclusivamente aos usuários, os desenvolvedores e/ou mantenedores do SocioAtlas não se responsabilizam por perdas de dados ou erros de processamento.
